@@ -1,0 +1,18 @@
+{
+  "name": "jakartaee9-template",
+  "repository": "https://github.com/tgm-templates/jakartaee9-template",
+  "description": "Jakarta EE 9 template",
+  "variables": [
+    {
+      "name": "groupId",
+      "description": "Maven groupId"
+    },
+    {
+      "name": "artifactId",
+      "description": "Maven artifactId"
+    }
+  ],
+  "files": [
+    "pom.xml","testing.http"
+  ]
+}
