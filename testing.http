@@ -1,0 +1,6 @@
+### index page
+GET http://localhost:8080/@artifactId@/
+
+###  user detail
+GET http://localhost:8080/@artifactId@/users/2
+
