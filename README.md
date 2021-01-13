@@ -6,7 +6,7 @@ Jakarta EE 9 Starter template to generate app.
 # How to run?
 
 ```
-$ mvn -DskipTests clean package wildfly:run -PWildfly -Dwildfly.artifactId=wildfly-preview-dist -Dwildfly.version=22.0.0.Alpha1
+$ mvn -DskipTests clean package wildfly:run
 ```
 
 # Development with IntelliJ IDEA
