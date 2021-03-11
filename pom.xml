@@ -16,7 +16,7 @@
         <jakarta-ee.version>9.0.0</jakarta-ee.version>
         <resteasy.version>4.5.8.SP1</resteasy.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
-        <junit5.version>5.7.0</junit5.version>
+        <junit5.version>5.7.1</junit5.version>
     </properties>
 
     <dependencies>
@@ -115,7 +115,7 @@
                 <version>2.1.0.Beta1</version>
                 <configuration>
                     <artifactId>wildfly-preview-dist</artifactId>
-                    <version>22.0.0.Final</version>
+                    <version>23.0.0.Final</version>
                 </configuration>
             </plugin>
         </plugins>
