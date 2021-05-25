@@ -13,10 +13,10 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <jakarta-ee.version>9.0.0</jakarta-ee.version>
+        <jakarta-ee.version>9.1.0</jakarta-ee.version>
         <resteasy.version>4.6.0.Final</resteasy.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
-        <junit5.version>5.7.1</junit5.version>
+        <junit5.version>5.7.2</junit5.version>
     </properties>
 
     <dependencies>
